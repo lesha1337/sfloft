@@ -1,3 +1,3 @@
 # loftbot
 
-[Telegram Bot with Amocrm API integration.](tg://resolve?domain=SoulfulloftBot)
+[Telegram Bot with Amocrm API integration.](http://t.me/SoulfulloftBot)
